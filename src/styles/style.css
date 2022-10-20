@@ -28,7 +28,7 @@ body {
     padding: 2%;
     
     color: #00a808;
-    text-shadow: 0.5px 1px rgb(0, 0, 0);;
+    text-shadow: 0.5px 1px rgb(114, 108, 108);;
     background: rgba(0, 0, 0, 0.35);
     box-shadow: 0 8px 32px 0 #02f90e;
     backdrop-filter: blur( 13.5px );
@@ -94,6 +94,7 @@ form {
     display: flex;
     flex-direction: column;
     gap: 12px;
+    text-shadow: 0.5px 1px rgb(114, 108, 108);;
 }
 button {
     color: #000000;
